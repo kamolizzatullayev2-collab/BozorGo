@@ -86,7 +86,7 @@ export default function Home() {
         <div className="container flex h-[76px] items-center gap-5">
           <button className="md:hidden rounded-xl p-2 hover:bg-slate-100" onClick={()=>setDrawer(!drawer)} aria-label="Menyu"><Menu size={22}/></button>
           <button onClick={()=>{setPage("home");window.scrollTo({top:0,behavior:"smooth"});}} className="shrink-0 text-left">
-            <div className="text-[27px] font-black tracking-tight text-navy">Mebel<span className="text-orange">Go</span><span className="ml-1 inline-block h-2 w-2 rounded-full bg-orange"/></div>
+            <div className="text-[27px] font-black tracking-tight text-navy">Mebel<span className="text-orange">Tech</span><span className="ml-1 inline-block h-2 w-2 rounded-full bg-orange"/></div>
             <div className="-mt-1 text-[10px] tracking-wide text-slate-500">Har narsa bir joyda.</div>
           </button>
           <nav className="hidden items-center gap-6 text-sm font-semibold text-slate-600 lg:flex">
