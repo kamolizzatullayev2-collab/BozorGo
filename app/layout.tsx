@@ -3,13 +3,13 @@ import "./globals.css";
 import ServiceWorkerRegister from "./sw-register";
 
 export const metadata: Metadata = {
-  title: "BozorGo — Har narsa bir joyda",
-  description: "Uy va hayot uchun kerakli mahsulotlar — BozorGo'da.",
-  applicationName: "BozorGo",
+  title: "MebelTech — Har narsa bir joyda",
+  description: "Uy va hayot uchun kerakli mahsulotlar — MebelTech'da.",
+  applicationName: "MebelTech",
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
-    title: "BozorGo",
+    title: "MebelTech",
     statusBarStyle: "default"
   },
   icons: {
