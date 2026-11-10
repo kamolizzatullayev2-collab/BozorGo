@@ -1,6 +1,6 @@
-# BozorGo — iPhone uchun o‘rnatiladigan marketplace (PWA)
+# MebelTech — iPhone uchun o‘rnatiladigan marketplace (PWA)
 
-BozorGo Next.js + TypeScript + Tailwind CSS asosida yaratilgan. PWA sozlamalari qo‘shildi:
+MebelTech Next.js + TypeScript + Tailwind CSS asosida yaratilgan. PWA sozlamalari qo‘shildi:
 - iPhone Home Screen'ga ilova kabi qo‘shish (`display: standalone`)
 - Ilova nomi, ranglari va ikonkalari
 - Service Worker orqali asosiy sahifa va statik resurslarni keshlash
